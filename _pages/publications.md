@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<!-- If you have a Google Scholar profile, uncomment and replace the link -->
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=SOkJ11kAAAAJ).
+
+<!-- Publication list starts -->
+
+<!-- Replace this with each publication entry manually or via another script -->
+## Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training
+  Minhak Song\*, **Beomhan Baek**\*, Kwangjun Ahn, Chulhee Yun  
+  *Under Review*  
+  *ICML 2025 Workshop on High-dimensional Learning Dynamics*  
+  <!-- [PDF](#) | [arXiv](#) | [Project Page](#) -->
+
+## [Three dynamic pricing schemes for resource allocation of edge computing for IoT environment](https://ieeexplore.ieee.org/abstract/document/8959172)
+  **Beomhan Baek**, Joohyung Lee, Yuyang Peng, Sangdon Park  
+  *IEEE Internet of Things Journal, 2020*  
+<!-- Repeat the above block for each publication -->
+
+<!-- Or, if no category is used, just list them all: -->
