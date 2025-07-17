@@ -13,13 +13,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <!-- Replace this with each publication entry manually or via another script -->
 ## Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training
   Minhak Song\*, **Beomhan Baek**\*, Kwangjun Ahn, Chulhee Yun  
-  *Under Review*  
-  *ICML 2025 Workshop on High-dimensional Learning Dynamics*  
-  <!-- [PDF](#) | [arXiv](#) | [Project Page](#) -->
+  _Under Review_  
+  _ICML 2025 Workshop on High-dimensional Learning Dynamics_
+  [arXiv](https://arxiv.org/abs/2507.09846)
 
-## [Three dynamic pricing schemes for resource allocation of edge computing for IoT environment](https://ieeexplore.ieee.org/abstract/document/8959172)
+## Three dynamic pricing schemes for resource allocation of edge computing for IoT environment
   **Beomhan Baek**, Joohyung Lee, Yuyang Peng, Sangdon Park  
-  *IEEE Internet of Things Journal, 2020*  
-<!-- Repeat the above block for each publication -->
+  _IEEE Internet of Things Journal, 2020_
+  [IEEE Link](https://ieeexplore.ieee.org/abstract/document/8959172)
 
 <!-- Or, if no category is used, just list them all: -->
