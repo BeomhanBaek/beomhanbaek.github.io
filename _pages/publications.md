@@ -13,8 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <!-- Replace this with each publication entry manually or via another script -->
 ## [Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training](https://arxiv.org/abs/2507.09846)
   Minhak Song\*, **Beomhan Baek**\*, Kwangjun Ahn, Chulhee Yun  
-  _NeurIPS 2025_
-
+  _NeurIPS 2025_  
   _ICML 2025 Workshop on High-dimensional Learning Dynamics_
 
 ## [Three dynamic pricing schemes for resource allocation of edge computing for IoT environment](https://ieeexplore.ieee.org/abstract/document/8959172)
