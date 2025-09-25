@@ -12,9 +12,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 <!-- Replace this with each publication entry manually or via another script -->
 ## Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime
-**Beomhan Baek**\*, Minhak Song\*, Chulhee Yun  
-_Under Review_  
-_NeurIPS 2025 Workshop on Optimization for Machine Learning_
+  **Beomhan Baek**\*, Minhak Song\*, Chulhee Yun  
+  _Under Review_  
+  _NeurIPS 2025 Workshop on Optimization for Machine Learning_
 
 ## [Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training](https://arxiv.org/abs/2507.09846)
   Minhak Song\*, **Beomhan Baek**\*, Kwangjun Ahn, Chulhee Yun  
