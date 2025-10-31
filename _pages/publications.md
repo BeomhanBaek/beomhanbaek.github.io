@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <!-- Publication list starts -->
 
 <!-- Replace this with each publication entry manually or via another script -->
-## Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime
+## [Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime](https://arxiv.org/abs/2510.26303)
   **Beomhan Baek**\*, Minhak Song\*, Chulhee Yun  
   _Under Review_  
   _NeurIPS 2025 Workshop on Optimization for Machine Learning_
