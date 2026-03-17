@@ -9,11 +9,10 @@ redirect_from:
 
 Hello, my name is Beomhan Baek! My research interests span a broad range of machine learning theory, including optimization, deep learning theory, and interactive decision-making. I'm also interested in developing rigorous and principled algorithms for machine learning.
 
-Previously, I earned my B.S. degree in Mathematical Sciences from Seoul National University. During my undergraduate studies, I worked in optimization in deep learning with [Prof. Chulhee Yun](https://chulheeyun.github.io).
+Previously, I earned my B.S. degree in Mathematical Sciences from Seoul National University. During my undergraduate studies, I worked on optimization in deep learning with [Prof. Chulhee Yun](https://chulheeyun.github.io).
 
 ## Research Interests
 - Foundations of AI
-- Optimization
 
 ## Education
 ### Seoul National University  
