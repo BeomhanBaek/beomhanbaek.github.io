@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Beomhan Baek, and I am an undergraduate student at Seoul National University majoring in Mathematical Sciences. My research interests lie in a broad class of machine learning theory, including optimization, deep learning theory, and interactive decision-making.
+Hello, my name is Beomhan Baek! My research interests span a broad range of machine learning theory, including optimization, deep learning theory, and interactive decision-making. I'm also interested in developing rigorous and principled algorithms for machine learning.
 
-I have been studying optimization in deep learning, advised by [Prof. Chulhee Yun](https://chulheeyun.github.io). Recently, I'm also exploring RL theory with [Prof. Dabeen Lee](https://dabeenl.github.io). My previous work involved using game theory to study resource allocation in edge computing.
+Previously, I earned my B.S. degree in Mathematical Sciences from Seoul National University. During my undergraduate studies, I worked in optimization in deep learning with [Prof. Chulhee Yun](https://chulheeyun.github.io).
 
 ## Research Interests
-- Theory of Machine Learning
+- Foundations of AI
 - Optimization
 
 ## Education
 ### Seoul National University  
 B.S. in Mathematical Sciences  
-_2020 – Present_  
+_2020 – 2026_  
 
 ### Korea Science Academy of KAIST  
 High School for Gifted Students in Science and Mathematics  
