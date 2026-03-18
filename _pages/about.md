@@ -11,9 +11,6 @@ Hello, my name is Beomhan Baek! My research interests span a broad range of mach
 
 Previously, I earned my B.S. degree in Mathematical Sciences from Seoul National University. During my undergraduate studies, I worked on optimization in deep learning with [Prof. Chulhee Yun](https://chulheeyun.github.io).
 
-## Research Interests
-- Foundations of AI
-
 ## Education
 ### Seoul National University  
 B.S. in Mathematical Sciences  
