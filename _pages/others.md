@@ -1,17 +1,27 @@
 ---
-permalink: /others/
-title: ""
-author_profile: true
+layout: academic
+permalink: /teaching/
+title: "Teaching & Services"
+author_profile: false
+redirect_from:
+  - /others/
 ---
 
-# Teaching
----
-### Linear Algebra
-*Teaching Assistant, Seoul National University*
-### Honor Calculus Practice 1  
-*Teaching Assistant, Seoul National University*
+## Teaching
 
-# Courseworks
----
-### Seoul National University (Selected Graduate-Level Courses)
-*Real Analysis, Differentiable Manifolds, Mathematical Machine Learning Theory, Machine Learning, Modern Computational Mathematics, Topics in Applied Mathematics (RL/LLM), Data Science and Reinforcement Learning, Mathematical Algorithms 2, Statistical Theory of Deep Learning*
+<ul class="cv-list">
+  <li>
+    <div class="cv-list__date">SNU</div>
+    <div>
+      <div class="cv-list__title">Linear Algebra</div>
+      <div class="cv-list__meta">Teaching Assistant, Seoul National University</div>
+    </div>
+  </li>
+  <li>
+    <div class="cv-list__date">SNU</div>
+    <div>
+      <div class="cv-list__title">Honor Calculus Practice 1</div>
+      <div class="cv-list__meta">Teaching Assistant, Seoul National University</div>
+    </div>
+  </li>
+</ul>

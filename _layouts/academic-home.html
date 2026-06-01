@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<main class="academic-main academic-home" role="main">
+  <div class="academic-container">
+    <section class="academic-profile">
+      {% if site.author.avatar %}
+        <aside class="academic-profile__aside">
+          <img
+            class="academic-profile__photo"
+            src="{{ site.baseurl }}/images/{{ site.author.avatar }}"
+            alt="{{ site.author.name | default: site.title }}"
+          >
+        </aside>
+      {% endif %}
+
+      <header class="academic-profile__header">
+        <h1>
+          <span class="academic-name-strong">Beomhan</span>
+          Baek
+        </h1>
+        {% if page.subtitle %}
+          <p class="academic-subtitle">{{ page.subtitle }}</p>
+        {% endif %}
+      </header>
+
+      {{ content }}
+
+      <ul class="academic-socials">
+        {% if site.author.email %}
+          <li><a href="mailto:{{ site.author.email }}"><i class="fa-solid fa-envelope" aria-hidden="true"></i> Email</a></li>
+        {% endif %}
+        {% if site.author.github %}
+          <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+        {% endif %}
+        {% if site.author.googlescholar %}
+          <li><a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a></li>
+        {% endif %}
+      </ul>
+    </section>
+
+    {% include news-list.html limit=5 link_title=false %}
+    {% include publication-list.html title="Selected publications" limit=5 link_title=false %}
+  </div>
+</main>

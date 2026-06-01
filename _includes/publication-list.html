@@ -1,0 +1,60 @@
+{% assign publications = site.data.publications %}
+{% assign publication_limit = include.limit | default: publications.size %}
+
+<section class="academic-section academic-publications">
+  {% if include.title %}
+    <h2>{% if include.link_title %}<a href="{{ '/publications/' | relative_url }}">{{ include.title }}</a>{% else %}{{ include.title }}{% endif %}</h2>
+  {% endif %}
+
+  {% if publications and publications.size > 0 %}
+    <ol class="publication-list">
+      {% for publication in publications limit: publication_limit %}
+        <li class="publication-list__item">
+          {% assign publication_year = publication.year %}
+          {% unless publication_year %}
+            {% for venue in publication.venues %}
+              {% assign digits = venue | split: '20' %}
+              {% if digits.size > 1 %}
+                {% assign publication_year = '20' | append: digits[1] | slice: 0, 4 %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+          {% endunless %}
+
+          <div class="publication-list__year">{{ publication_year | default: "" }}</div>
+
+          <div class="publication-list__body">
+            <div class="publication-list__title">
+              {{ publication.title }}
+            </div>
+
+            {% if publication.authors %}
+              <div class="publication-list__authors">
+                {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+              </div>
+            {% endif %}
+
+            {% if publication.venues %}
+              <div class="publication-list__venues">
+                {% for venue in publication.venues %}
+                  <div><em>{{ venue }}</em></div>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            {% if publication.url %}
+              <div class="publication-list__links">
+                <a class="publication-list__badge" href="{{ publication.url }}">paper</a>
+                {% if publication.citation_id %}
+                  <span class="publication-list__badge">scholar</span>
+                {% endif %}
+              </div>
+            {% endif %}
+            </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="academic-muted">Publications will be added here.</p>
+  {% endif %}
+</section>

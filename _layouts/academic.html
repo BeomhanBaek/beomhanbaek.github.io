@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<main class="academic-main" role="main">
+  <div class="academic-container">
+    {% unless page.show_title == false %}
+      {% if page.title %}
+        <h1 class="academic-page-title">{{ page.title }}</h1>
+      {% endif %}
+    {% endunless %}
+
+    {{ content }}
+  </div>
+</main>

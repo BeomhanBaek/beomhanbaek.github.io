@@ -1,0 +1,19 @@
+{% assign news_items = site.data.news %}
+{% assign news_limit = include.limit | default: news_items.size %}
+
+<section class="academic-section academic-news">
+  <h2>{% if include.link_title %}<a href="{{ '/news/' | relative_url }}">News</a>{% else %}News{% endif %}</h2>
+
+  {% if news_items and news_items.size > 0 %}
+    <ul class="news-list">
+      {% for item in news_items limit: news_limit %}
+        <li>
+          <span class="news-list__date">{{ item.date }}</span>
+          <span class="news-list__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="academic-muted">Updates coming soon.</p>
+  {% endif %}
+</section>
