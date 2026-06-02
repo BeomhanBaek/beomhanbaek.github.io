@@ -1,8 +1,8 @@
 - date: "2026"
-  text: "I will join ULCA as a Ph.D. student in Computer Science."
-
-- date: "2026"
-  text: "Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime will appear at ICLR 2026."
+  text: "I will join UCLA as a Ph.D. student in [Computer Science](https://www.cs.ucla.edu)."
 
 - date: "2025"
-  text: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training will appear at NeurIPS 2025."
+  text: "Our [paper](https://arxiv.org/abs/2510.26303) on the implicit bias of per-sample Adam will appear at ICLR 2026."
+
+- date: "2025"
+  text: "Our [paper](https://arxiv.org/abs/2507.09846) on schedule-free methods for language model training will appear at NeurIPS 2025."

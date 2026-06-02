@@ -20,7 +20,7 @@
   authors: "**Beomhan Baek**\\*, Minhak Song\\*, Chulhee Yun"
   year: "2026"
   venues:
-    - "ICLR 2026"
+    - "International Conference on Learning Representations (ICLR) 2026"
     - "NeurIPS 2025 Workshop on Optimization for Machine Learning"
 
 - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
@@ -28,7 +28,7 @@
   authors: "Minhak Song\\*, **Beomhan Baek**\\*, Kwangjun Ahn, Chulhee Yun"
   year: "2025"
   venues:
-    - "NeurIPS 2025"
+    - "Conference on Neural Information Processing Systems (NeurIPS) 2025"
     - "ICML 2025 Workshop on High-dimensional Learning Dynamics"
 
 - title: "Three dynamic pricing schemes for resource allocation of edge computing for IoT environment"
