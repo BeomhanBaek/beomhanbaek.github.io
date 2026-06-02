@@ -1,0 +1,18 @@
+# Publications shown only on the About page.
+# The full Publications page still uses _data/publications.yml.
+
+- title: "Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime"
+  url: "https://arxiv.org/abs/2510.26303"
+  authors: "**Beomhan Baek**\\*, Minhak Song\\*, Chulhee Yun"
+  year: "2026"
+  venues:
+    - "ICLR 2026"
+    - "NeurIPS 2025 Workshop on Optimization for Machine Learning"
+
+- title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
+  url: "https://arxiv.org/abs/2507.09846"
+  authors: "Minhak Song\\*, **Beomhan Baek**\\*, Kwangjun Ahn, Chulhee Yun"
+  year: "2025"
+  venues:
+    - "NeurIPS 2025"
+    - "ICML 2025 Workshop on High-dimensional Learning Dynamics"

@@ -1,4 +1,5 @@
-{% assign publications = site.data.publications %}
+{% assign publication_source = include.source | default: "publications" %}
+{% assign publications = site.data[publication_source] %}
 {% assign publication_limit = include.limit | default: publications.size %}
 
 <section class="academic-section academic-publications">
