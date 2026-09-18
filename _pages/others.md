@@ -31,4 +31,4 @@ redirect_from:
 ### Conference/Workshop Reviewer
 
 - NeurIPS 2026, ICLR 2027
-- ICML 2026 HiLD Workshop, NeurIPS 2026 OPT Workshop
+- ICLR 2026 Sci4DL Workshop, NeurIPS 2026 OPT Workshop
