@@ -1,8 +1,11 @@
-- date: "2026"
-  text: "I will join UCLA as a Ph.D. student in [Computer Science](https://www.cs.ucla.edu)."
+- date: "Oct. 2026"
+  text: "Three papers ([AMUSE](https://arxiv.org/abs/2605.22432), [PD-LSCVI-UCB](https://arxiv.org/abs/2605.11586), KRAFT) were accepted to NeurIPS 2026. AMUSE was selected as a **Spotlight**, and I was named a **Top Reviewer**."
 
-- date: "2025"
-  text: "Our [paper](https://arxiv.org/abs/2510.26303) on the implicit bias of per-sample Adam will appear at ICLR 2026."
+- date: "Sep. 2026"
+  text: "I joined UCLA as a Ph.D. student in [Computer Science](https://www.cs.ucla.edu)."
 
-- date: "2025"
-  text: "Our [paper](https://arxiv.org/abs/2507.09846) on schedule-free methods for language model training will appear at NeurIPS 2025."
+- date: "Jan. 2026"
+  text: "Our [paper](https://arxiv.org/abs/2510.26303) on the implicit bias of per-sample Adam was accepted to ICLR 2026."
+
+- date: "Sep. 2025"
+  text: "Our [paper](https://arxiv.org/abs/2507.09846) on schedule-free methods for language model training was accepted to NeurIPS 2025."
