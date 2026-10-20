@@ -9,6 +9,13 @@ author_profile: false
 
 <ul class="cv-list">
   <li>
+    <div class="cv-list__date">2026 - Present</div>
+    <div>
+      <div class="cv-list__title">Ph.D. in Computer Science</div>
+      <div class="cv-list__meta">University of California, Los Angeles</div>
+    </div>
+  </li>
+  <li>
     <div class="cv-list__date">2020 - 2026</div>
     <div>
       <div class="cv-list__title">B.S. in Mathematical Sciences</div>
